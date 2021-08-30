@@ -1,0 +1,786 @@
+Id,Label,timeset,d0,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class
+Brazil,Brazil,,0,10,498,508,10,498,508,3,0.811794,0.884596,0.006589,0
+Rio De Janeiro,Rio De Janeiro,,0,6,0,6,6,0,6,0,0,0,0,3
+Viaf (Identifier),Viaf (Identifier),,0,6,0,6,6,0,6,0,0,0,0,1
+United States,United States,,0,6,0,6,6,0,6,0,0,0,0,1
+"Índice Bovespa",Índice Bovespa,,0,6,0,6,6,0,6,0,0,0,0,4
+Latin America,Latin America,,0,5,321,326,5,321,326,3,0.664271,0.74781,0.00272,0
+Amazon Basin,Amazon Basin,,0,5,0,5,5,0,5,0,0,0,0,3
+Pantanal,Pantanal,,0,5,0,5,5,0,5,0,0,0,0,3
+Energy Policy Of Brazil,Energy Policy Of Brazil,,0,5,0,5,5,0,5,0,0,0,0,3
+Embraer,Embraer,,0,5,0,5,5,0,5,0,0,0,0,1
+Brasília,Brasília,,0,5,0,5,5,0,5,0,0,0,0,1
+"Southeast Region, Brazil","Southeast Region, Brazil",,0,5,0,5,5,0,5,0,0,0,0,3
+Uruguay,Uruguay,,0,5,0,5,5,0,5,0,0,0,0,4
+Chairman,Chairman,,0,5,18,23,5,18,23,1,1,1,0.000085,1
+Portuguese Language,Portuguese Language,,0,5,0,5,5,0,5,0,0,0,0,4
+Cinema Of Brazil,Cinema Of Brazil,,0,5,0,5,5,0,5,0,0,0,0,3
+Geographic Coordinate System,Geographic Coordinate System,,0,5,0,5,5,0,5,0,0,0,0,3
+Time Zone,Time Zone,,0,5,0,5,5,0,5,0,0,0,0,3
+B3 (Stock Exchange),B3 (Stock Exchange),,0,5,0,5,5,0,5,0,0,0,0,1
+Canada,Canada,,0,5,0,5,5,0,5,0,0,0,0,0
+São Paulo,São Paulo,,0,5,333,338,5,333,338,2,0.673257,0.757342,0.001789,3
+São Paulo (State),São Paulo (State),,0,5,0,5,5,0,5,0,0,0,0,3
+Issn (Identifier),Issn (Identifier),,0,5,0,5,5,0,5,0,0,0,0,1
+Wayback Machine,Wayback Machine,,0,5,0,5,5,0,5,0,0,0,0,2
+History Of Brazil Since 1985,History Of Brazil Since 1985,,0,4,0,4,4,0,4,0,0,0,0,3
+Immigration To Brazil,Immigration To Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Demographics Of Brazil,Demographics Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Literature,Brazilian Literature,,0,4,0,4,4,0,4,0,0,0,0,3
+Transport In Brazil,Transport In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Wildlife Of Brazil,Wildlife Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+National Symbols Of Brazil,National Symbols Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Automotive Industry In Brazil,Automotive Industry In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Air Force,Brazilian Air Force,,0,4,0,4,4,0,4,0,0,0,0,3
+Chile,Chile,,0,4,0,4,4,0,4,0,0,0,0,4
+Telecommunications In Brazil,Telecommunications In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Comics,Brazilian Comics,,0,4,0,4,4,0,4,0,0,0,0,3
+Bibliography Of Brazil,Bibliography Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Education In Brazil,Education In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Governance Of Brazil,Governance Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Argentina,Argentina,,0,4,0,4,4,0,4,0,0,0,0,3
+Rio De Janeiro (State),Rio De Janeiro (State),,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Armed Forces,Brazilian Armed Forces,,0,4,0,4,4,0,4,0,0,0,0,3
+Taxation In Brazil,Taxation In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Judiciary Of Brazil,Judiciary Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Television In Brazil,Television In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Fourth Brazilian Republic,Fourth Brazilian Republic,,0,4,0,4,4,0,4,0,0,0,0,3
+Amazonas (Brazilian State),Amazonas (Brazilian State),,0,4,0,4,4,0,4,0,0,0,0,3
+Bolsa Família,Bolsa Família,,0,4,0,4,4,0,4,0,0,0,0,3
+Animal Husbandry In Brazil,Animal Husbandry In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Science Fiction,Brazilian Science Fiction,,0,4,0,4,4,0,4,0,0,0,0,3
+Municipalities Of Brazil,Municipalities Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Agriculture In Brazil,Agriculture In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Antarctica,Brazilian Antarctica,,0,4,0,4,4,0,4,0,0,0,0,3
+Mining In Brazil,Mining In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+National Congress Of Brazil,National Congress Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Time In Brazil,Time In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+First Brazilian Republic,First Brazilian Republic,,0,4,0,4,4,0,4,0,0,0,0,3
+Rio Grande Do Norte,Rio Grande Do Norte,,0,4,0,4,4,0,4,0,0,0,0,3
+Water Resources Management In Brazil,Water Resources Management In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Protected Areas Of Brazil,Protected Areas Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Corruption In Brazil,Corruption In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+London,London,,0,4,0,4,4,0,4,0,0,0,0,2
+Recife,Recife,,0,4,0,4,4,0,4,0,0,0,0,1
+Military Dictatorship In Brazil,Military Dictatorship In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Paraguay,Paraguay,,0,4,0,4,4,0,4,0,0,0,0,4
+"United Kingdom Of Portugal, Brazil And The Algarves","United Kingdom Of Portugal, Brazil And The Algarves",,0,4,0,4,4,0,4,0,0,0,0,3
+Porto Alegre,Porto Alegre,,0,4,0,4,4,0,4,0,0,0,0,4
+Colonial Brazil,Colonial Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Bolivia,Bolivia,,0,4,0,4,4,0,4,0,0,0,0,4
+Constitution Of Brazil,Constitution Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Vargas Era,Vargas Era,,0,4,0,4,4,0,4,0,0,0,0,3
+Water Supply And Sanitation In Brazil,Water Supply And Sanitation In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Economic History Of Brazil,Economic History Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Infrastructure Of Brazil,Infrastructure Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Timeline Of Brazilian History,Timeline Of Brazilian History,,0,4,0,4,4,0,4,0,0,0,0,3
+Empire Of Brazil,Empire Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Köppen Climate Classification,Köppen Climate Classification,,0,4,0,4,4,0,4,0,0,0,0,3
+Ceo,Ceo,,0,4,0,4,4,0,4,0,0,0,0,1
+Demonym,Demonym,,0,4,0,4,4,0,4,0,0,0,0,3
+Geology Of Brazil,Geology Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Administrative Divisions Of Brazil,Administrative Divisions Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Income Inequality In Brazil,Income Inequality In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Real,Brazilian Real,,0,4,0,4,4,0,4,0,0,0,0,3
+Human Development Index,Human Development Index,,0,4,0,4,4,0,4,0,0,0,0,3
+Science And Technology In Brazil,Science And Technology In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Politics Of Brazil,Politics Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Index Of Brazil-Related Articles,Index Of Brazil-Related Articles,,0,4,0,4,4,0,4,0,0,0,0,0
+Music Of Brazil,Music Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Indigenous Peoples In Brazil,Indigenous Peoples In Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+Unemployment In Brazil,Unemployment In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Law Enforcement In Brazil,Law Enforcement In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Mato Grosso,Mato Grosso,,0,4,0,4,4,0,4,0,0,0,0,1
+Climate Of Brazil,Climate Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Sculpture,Brazilian Sculpture,,0,4,0,4,4,0,4,0,0,0,0,0
+Brazilian Art,Brazilian Art,,0,4,0,4,4,0,4,0,0,0,0,3
+Mbarea (Identifier),Mbarea (Identifier),,0,4,0,4,4,0,4,0,0,0,0,3
+Chief Executive Officer,Chief Executive Officer,,0,4,0,4,4,0,4,0,0,0,0,1
+Health In Brazil,Health In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Public Holidays In Brazil,Public Holidays In Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+Religion In Brazil,Religion In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Geography Of Brazil,Geography Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilians,Brazilians,,0,4,0,4,4,0,4,0,0,0,0,3
+States Of Brazil,States Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+Elections In Brazil,Elections In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Sport In Brazil,Sport In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Government Of Brazil,Government Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Coastline Of Brazil,Coastline Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+History Of Brazil,History Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Cuisine,Brazilian Cuisine,,0,4,0,4,4,0,4,0,0,0,0,3
+Foreign Relations Of Brazil,Foreign Relations Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Law Of Brazil,Law Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+President Of Brazil,President Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Atlantic Forest,Atlantic Forest,,0,4,0,4,4,0,4,0,0,0,0,3
+Petrobras,Petrobras,,0,4,0,4,4,0,4,0,0,0,0,4
+Federal Government Of Brazil,Federal Government Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Social Issues In Brazil,Social Issues In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Minas Gerais,Minas Gerais,,0,4,0,4,4,0,4,0,0,0,0,0
+Economy Of Brazil,Economy Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+Index Of Brazil–Related Articles,Index Of Brazil–Related Articles,,0,4,0,4,4,0,4,0,0,0,0,3
+Venezuela,Venezuela,,0,4,0,4,4,0,4,0,0,0,0,4
+Languages Of Brazil,Languages Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Human Rights In Brazil,Human Rights In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Tourism In Brazil,Tourism In Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+Military Of Brazil,Military Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Regions Of Brazil,Regions Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Culture Of Brazil,Culture Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Crime In Brazil,Crime In Brazil,,0,4,0,4,4,0,4,0,0,0,0,0
+Malandragem,Malandragem,,0,4,0,4,4,0,4,0,0,0,0,3
+Industry In Brazil,Industry In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Painting,Brazilian Painting,,0,4,0,4,4,0,4,0,0,0,0,3
+Paraná (State),Paraná (State),,0,4,0,4,4,0,4,0,0,0,0,0
+Brazilian Carnival,Brazilian Carnival,,0,4,0,4,4,0,4,0,0,0,0,0
+Youth In Brazil,Youth In Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Brazilian Mythology,Brazilian Mythology,,0,4,0,4,4,0,4,0,0,0,0,3
+Central Bank Of Brazil,Central Bank Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Department Store,Department Store,,0,4,14,18,4,14,18,1,1,1,0.000064,2
+Portuguese Empire,Portuguese Empire,,0,4,0,4,4,0,4,0,0,0,0,0
+History Of Brazilian Animation,History Of Brazilian Animation,,0,4,0,4,4,0,4,0,0,0,0,0
+Rio Grande Do Sul,Rio Grande Do Sul,,0,4,0,4,4,0,4,0,0,0,0,4
+Outline Of Brazil,Outline Of Brazil,,0,4,0,4,4,0,4,0,0,0,0,3
+Bbc,Bbc,,0,3,0,3,3,0,3,0,0,0,0,2
+Campinas,Campinas,,0,3,0,3,3,0,3,0,0,0,0,3
+Santa Catarina (State),Santa Catarina (State),,0,3,0,3,3,0,3,0,0,0,0,4
+Espírito Santo,Espírito Santo,,0,3,0,3,3,0,3,0,0,0,0,3
+Company,Company,,0,3,0,3,3,0,3,0,0,0,0,1
+Atlantic Slave Trade,Atlantic Slave Trade,,0,3,0,3,3,0,3,0,0,0,0,0
+Iguatemi Empresa De Shopping Centers,Iguatemi Empresa De Shopping Centers,,0,3,0,3,3,0,3,0,0,0,0,4
+Europe,Europe,,0,3,0,3,3,0,3,0,0,0,0,2
+Japan,Japan,,0,3,0,3,3,0,3,0,0,0,0,2
+Oxford English Dictionary,Oxford English Dictionary,,0,3,0,3,3,0,3,0,0,0,0,1
+S.A. (Corporation),S.A. (Corporation),,0,3,0,3,3,0,3,0,0,0,0,1
+White Brazilian,White Brazilian,,0,3,0,3,3,0,3,0,0,0,0,0
+Americas,Americas,,0,3,0,3,3,0,3,0,0,0,0,0
+Pernambuco,Pernambuco,,0,3,0,3,3,0,3,0,0,0,0,1
+Greater Rio De Janeiro,Greater Rio De Janeiro,,0,3,0,3,3,0,3,0,0,0,0,0
+Pedro Ii Of Brazil,Pedro Ii Of Brazil,,0,3,0,3,3,0,3,0,0,0,0,0
+Papaya,Papaya,,0,3,0,3,3,0,3,0,0,0,0,0
+Financial Statement,Financial Statement,,0,3,0,3,3,0,3,0,0,0,0,1
+Oscar Niemeyer,Oscar Niemeyer,,0,3,0,3,3,0,3,0,0,0,0,3
+Multiracial,Multiracial,,0,3,0,3,3,0,3,0,0,0,0,3
+Humid Subtropical Climate,Humid Subtropical Climate,,0,3,0,3,3,0,3,0,0,0,0,3
+Corporation,Corporation,,0,3,0,3,3,0,3,0,0,0,0,1
+Pulp (Paper),Pulp (Paper),,0,3,0,3,3,0,3,0,0,0,0,0
+Guava,Guava,,0,3,0,3,3,0,3,0,0,0,0,0
+São Paulo Metro,São Paulo Metro,,0,3,0,3,3,0,3,0,0,0,0,0
+Brazilian Expeditionary Force,Brazilian Expeditionary Force,,0,3,0,3,3,0,3,0,0,0,0,0
+Guyana,Guyana,,0,3,0,3,3,0,3,0,0,0,0,0
+Latin,Latin,,0,3,0,3,3,0,3,0,0,0,0,0
+Covid-19 Pandemic,Covid-19 Pandemic,,0,3,0,3,3,0,3,0,0,0,0,2
+Br-116,Br-116,,0,3,0,3,3,0,3,0,0,0,0,0
+Florianópolis,Florianópolis,,0,3,0,3,3,0,3,0,0,0,0,0
+Mango,Mango,,0,3,0,3,3,0,3,0,0,0,0,0
+Dominican Republic,Dominican Republic,,0,3,0,3,3,0,3,0,0,0,0,0
+Amapá,Amapá,,0,3,0,3,3,0,3,0,0,0,0,3
+Curitiba,Curitiba,,0,3,0,3,3,0,3,0,0,0,0,3
+International Monetary Fund,International Monetary Fund,,0,3,0,3,3,0,3,0,0,0,0,0
+Asian Brazilian,Asian Brazilian,,0,3,0,3,3,0,3,0,0,0,0,0
+Mexico City,Mexico City,,0,3,0,3,3,0,3,0,0,0,0,0
+São Paulo–Guarulhos International Airport,São Paulo–Guarulhos International Airport,,0,3,0,3,3,0,3,0,0,0,0,3
+United Nations,United Nations,,0,3,0,3,3,0,3,0,0,0,0,0
+Guaraní People,Guaraní People,,0,3,0,3,3,0,3,0,0,0,0,0
+Cambridge University Press,Cambridge University Press,,0,3,0,3,3,0,3,0,0,0,0,0
+"Natal, Rio Grande Do Norte","Natal, Rio Grande Do Norte",,0,3,0,3,3,0,3,0,0,0,0,3
+S2Cid (Identifier),S2Cid (Identifier),,0,3,0,3,3,0,3,0,0,0,0,0
+Brazilian Institute Of Geography And Statistics,Brazilian Institute Of Geography And Statistics,,0,3,0,3,3,0,3,0,0,0,0,3
+Purchasing Power Parity,Purchasing Power Parity,,0,3,0,3,3,0,3,0,0,0,0,3
+Carrefour,Carrefour,,0,3,0,3,3,0,3,0,0,0,0,2
+Jamaica,Jamaica,,0,3,0,3,3,0,3,0,0,0,0,0
+Dilma Rousseff,Dilma Rousseff,,0,3,0,3,3,0,3,0,0,0,0,1
+Southern Hemisphere,Southern Hemisphere,,0,3,0,3,3,0,3,0,0,0,0,0
+Jstor (Identifier),Jstor (Identifier),,0,3,0,3,3,0,3,0,0,0,0,2
+Creole Language,Creole Language,,0,3,0,3,3,0,3,0,0,0,0,0
+Grenada,Grenada,,0,3,0,3,3,0,3,0,0,0,0,0
+Peru,Peru,,0,3,0,3,3,0,3,0,0,0,0,0
+Ivory Coast,Ivory Coast,,0,3,0,3,3,0,3,0,0,0,0,3
+Portugal,Portugal,,0,3,0,3,3,0,3,0,0,0,0,3
+Stock Exchange,Stock Exchange,,0,3,0,3,3,0,3,0,0,0,0,4
+World War Ii,World War Ii,,0,3,0,3,3,0,3,0,0,0,0,0
+Cashew,Cashew,,0,3,0,3,3,0,3,0,0,0,0,0
+United Kingdom,United Kingdom,,0,3,0,3,3,0,3,0,0,0,0,2
+Getúlio Vargas,Getúlio Vargas,,0,3,0,3,3,0,3,0,0,0,0,0
+The New York Times,The New York Times,,0,3,0,3,3,0,3,0,0,0,0,1
+Manila,Manila,,0,3,0,3,3,0,3,0,0,0,0,0
+Acre (State),Acre (State),,0,3,0,3,3,0,3,0,0,0,0,3
+Mexico,Mexico,,0,3,0,3,3,0,3,0,0,0,0,3
+Atlantic Ocean,Atlantic Ocean,,0,3,0,3,3,0,3,0,0,0,0,0
+2014 Fifa World Cup,2014 Fifa World Cup,,0,3,0,3,3,0,3,0,0,0,0,0
+Puerto Rico,Puerto Rico,,0,3,0,3,3,0,3,0,0,0,0,0
+Belize,Belize,,0,3,0,3,3,0,3,0,0,0,0,0
+Parent Company,Parent Company,,0,3,41,44,3,41,44,2,0.955556,0.976744,0.000174,1
+Pedro I Of Brazil,Pedro I Of Brazil,,0,3,0,3,3,0,3,0,0,0,0,3
+Philadelphia,Philadelphia,,0,3,0,3,3,0,3,0,0,0,0,2
+Board Of Directors,Board Of Directors,,0,3,0,3,3,0,3,0,0,0,0,1
+China,China,,0,3,0,3,3,0,3,0,0,0,0,1
+Afro-Brazilian,Afro-Brazilian,,0,3,0,3,3,0,3,0,0,0,0,3
+Braskem,Braskem,,0,3,0,3,3,0,3,0,0,0,0,4
+American English,American English,,0,3,0,3,3,0,3,0,0,0,0,2
+Cooperative,Cooperative,,0,3,0,3,3,0,3,0,0,0,0,1
+Colombia,Colombia,,0,3,0,3,3,0,3,0,0,0,0,0
+Trinidad And Tobago,Trinidad And Tobago,,0,3,0,3,3,0,3,0,0,0,0,0
+Belo Horizonte,Belo Horizonte,,0,3,0,3,3,0,3,0,0,0,0,0
+Coffee,Coffee,,0,3,0,3,3,0,3,0,0,0,0,3
+New Zealand,New Zealand,,0,3,0,3,3,0,3,0,0,0,0,0
+Namibia,Namibia,,0,3,0,3,3,0,3,0,0,0,0,2
+Banco Do Brasil,Banco Do Brasil,,0,3,0,3,3,0,3,0,0,0,0,4
+India,India,,0,3,0,3,3,0,3,0,0,0,0,2
+Paraná River,Paraná River,,0,3,0,3,3,0,3,0,0,0,0,0
+Australia,Australia,,0,3,0,3,3,0,3,0,0,0,0,0
+Antigua And Barbuda,Antigua And Barbuda,,0,3,0,3,3,0,3,0,0,0,0,0
+Brf S.A.,Brf S.A.,,0,3,0,3,3,0,3,0,0,0,0,4
+Corporate Governance,Corporate Governance,,0,3,0,3,3,0,3,0,0,0,0,1
+Gross Domestic Product,Gross Domestic Product,,0,3,0,3,3,0,3,0,0,0,0,0
+Italy,Italy,,0,3,0,3,3,0,3,0,0,0,0,3
+The Bahamas,The Bahamas,,0,3,0,3,3,0,3,0,0,0,0,0
+"Northeast Region, Brazil","Northeast Region, Brazil",,0,3,0,3,3,0,3,0,0,0,0,3
+Ticker Symbol,Ticker Symbol,,0,3,0,3,3,0,3,0,0,0,0,1
+Goiânia,Goiânia,,0,3,0,3,3,0,3,0,0,0,0,3
+Independence Of Brazil,Independence Of Brazil,,0,3,0,3,3,0,3,0,0,0,0,0
+Airport,Airport,,0,3,0,3,3,0,3,0,0,0,0,2
+Commuter Rail,Commuter Rail,,0,3,0,3,3,0,3,0,0,0,0,3
+Organization Of American States,Organization Of American States,,0,3,0,3,3,0,3,0,0,0,0,0
+"Boa Vista, Roraima","Boa Vista, Roraima",,0,3,0,3,3,0,3,0,0,0,0,0
+Orange (Fruit),Orange (Fruit),,0,2,0,2,2,0,2,0,0,0,0,0
+Cook Islands,Cook Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Alagoas,Alagoas,,0,2,0,2,2,0,2,0,0,0,0,3
+Dutch Language,Dutch Language,,0,2,0,2,2,0,2,0,0,0,0,0
+Brazilian Highlands,Brazilian Highlands,,0,2,0,2,2,0,2,0,0,0,0,3
+Pineapple,Pineapple,,0,2,0,2,2,0,2,0,0,0,0,0
+Sugarcane,Sugarcane,,0,2,0,2,2,0,2,0,0,0,0,0
+European Portuguese,European Portuguese,,0,2,0,2,2,0,2,0,0,0,0,3
+Union Of South American Nations,Union Of South American Nations,,0,2,0,2,2,0,2,0,0,0,0,0
+Samba,Samba,,0,2,0,2,2,0,2,0,0,0,0,3
+Natural Gas,Natural Gas,,0,2,0,2,2,0,2,0,0,0,0,0
+Armenia,Armenia,,0,2,0,2,2,0,2,0,0,0,0,3
+C&A,C&A,,0,2,15,17,2,15,17,4,0.409603,0.433792,0.000075,1
+Brazilian German,Brazilian German,,0,2,0,2,2,0,2,0,0,0,0,0
+Scandinavia,Scandinavia,,0,2,0,2,2,0,2,0,0,0,0,3
+Jazz,Jazz,,0,2,0,2,2,0,2,0,0,0,0,0
+Fast-Fashion,Fast-Fashion,,0,2,0,2,2,0,2,0,0,0,0,1
+Iron Ore,Iron Ore,,0,2,0,2,2,0,2,0,0,0,0,0
+Paraíba,Paraíba,,0,2,0,2,2,0,2,0,0,0,0,3
+Ultrapar,Ultrapar,,0,2,0,2,2,0,2,0,0,0,0,4
+Bandeirantes,Bandeirantes,,0,2,0,2,2,0,2,0,0,0,0,3
+Sabinada,Sabinada,,0,2,0,2,2,0,2,0,0,0,0,0
+Corporate Law,Corporate Law,,0,2,0,2,2,0,2,0,0,0,0,1
+Teresina,Teresina,,0,2,0,2,2,0,2,0,0,0,0,3
+Tin,Tin,,0,2,0,2,2,0,2,0,0,0,0,0
+South Africa,South Africa,,0,2,0,2,2,0,2,0,0,0,0,0
+Common Era,Common Era,,0,2,0,2,2,0,2,0,0,0,0,0
+West Africa,West Africa,,0,2,0,2,2,0,2,0,0,0,0,0
+World Heritage Site,World Heritage Site,,0,2,0,2,2,0,2,0,0,0,0,0
+Regency (Government),Regency (Government),,0,2,0,2,2,0,2,0,0,0,0,0
+Arab Brazilian,Arab Brazilian,,0,2,0,2,2,0,2,0,0,0,0,3
+United Arab Emirates,United Arab Emirates,,0,2,0,2,2,0,2,0,0,0,0,2
+Samoa,Samoa,,0,2,0,2,2,0,2,0,0,0,0,0
+Nickel,Nickel,,0,2,0,2,2,0,2,0,0,0,0,0
+North American Free Trade Agreement,North American Free Trade Agreement,,0,2,0,2,2,0,2,0,0,0,0,0
+Railway,Railway,,0,2,0,2,2,0,2,0,0,0,0,2
+British English,British English,,0,2,0,2,2,0,2,0,0,0,0,0
+Pardo Brazilian,Pardo Brazilian,,0,2,0,2,2,0,2,0,0,0,0,3
+Recordtv,Recordtv,,0,2,0,2,2,0,2,0,0,0,0,3
+Shareholder,Shareholder,,0,2,0,2,2,0,2,0,0,0,0,1
+Sugar Cane,Sugar Cane,,0,2,0,2,2,0,2,0,0,0,0,3
+"Liberal Party (Brazil, 2006)","Liberal Party (Brazil, 2006)",,0,2,0,2,2,0,2,0,0,0,0,1
+Legal Personality,Legal Personality,,0,2,0,2,2,0,2,0,0,0,0,1
+Santiago,Santiago,,0,2,0,2,2,0,2,0,0,0,0,0
+Oceania,Oceania,,0,2,0,2,2,0,2,0,0,0,0,0
+Santiago De Chile,Santiago De Chile,,0,2,0,2,2,0,2,0,0,0,0,0
+Ragamuffin War,Ragamuffin War,,0,2,0,2,2,0,2,0,0,0,0,0
+Languages Of Africa,Languages Of Africa,,0,2,0,2,2,0,2,0,0,0,0,0
+Management,Management,,0,2,0,2,2,0,2,0,0,0,0,1
+Formula One,Formula One,,0,2,0,2,2,0,2,0,0,0,0,0
+"San Juan, Puerto Rico","San Juan, Puerto Rico",,0,2,0,2,2,0,2,0,0,0,0,0
+Toronto,Toronto,,0,2,0,2,2,0,2,0,0,0,0,2
+Metropolitan Area,Metropolitan Area,,0,2,0,2,2,0,2,0,0,0,0,3
+Chief Human Resources Officer,Chief Human Resources Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Totvs,Totvs,,0,2,0,2,2,0,2,0,0,0,0,4
+Iguatemi São Paulo,Iguatemi São Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Amazon River,Amazon River,,0,2,0,2,2,0,2,0,0,0,0,0
+Belo Monte Dam,Belo Monte Dam,,0,2,0,2,2,0,2,0,0,0,0,0
+Emerald,Emerald,,0,2,0,2,2,0,2,0,0,0,0,0
+"Northern Region, Brazil","Northern Region, Brazil",,0,2,0,2,2,0,2,0,0,0,0,3
+Brazilian Social Democracy Party,Brazilian Social Democracy Party,,0,2,0,2,2,0,2,0,0,0,0,3
+John Vi Of Portugal,John Vi Of Portugal,,0,2,0,2,2,0,2,0,0,0,0,0
+Barsa (Encyclopedia),Barsa (Encyclopedia),,0,2,0,2,2,0,2,0,0,0,0,3
+Buenos Aires,Buenos Aires,,0,2,0,2,2,0,2,0,0,0,0,3
+Coup D'État,Coup D'État,,0,2,0,2,2,0,2,0,0,0,0,3
+Pew Research Center,Pew Research Center,,0,2,0,2,2,0,2,0,0,0,0,0
+Centro Comercial Aricanduva,Centro Comercial Aricanduva,,0,2,0,2,2,0,2,0,0,0,0,3
+South Sudan,South Sudan,,0,2,0,2,2,0,2,0,0,0,0,0
+Heitor Villa-Lobos,Heitor Villa-Lobos,,0,2,0,2,2,0,2,0,0,0,0,0
+Shopping Mall,Shopping Mall,,0,2,0,2,2,0,2,0,0,0,0,2
+Campo Grande,Campo Grande,,0,2,0,2,2,0,2,0,0,0,0,3
+Río De La Plata,Río De La Plata,,0,2,0,2,2,0,2,0,0,0,0,3
+Chief Marketing Officer,Chief Marketing Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Palau,Palau,,0,2,0,2,2,0,2,0,0,0,0,0
+Festa Junina,Festa Junina,,0,2,0,2,2,0,2,0,0,0,0,3
+Lojas Americanas,Lojas Americanas,,0,2,0,2,2,0,2,0,0,0,0,4
+Sulamérica Seguros,Sulamérica Seguros,,0,2,0,2,2,0,2,0,0,0,0,4
+Choro,Choro,,0,2,0,2,2,0,2,0,0,0,0,0
+Protestant,Protestant,,0,2,0,2,2,0,2,0,0,0,0,0
+Guadalajara,Guadalajara,,0,2,0,2,2,0,2,0,0,0,0,3
+English Channel,English Channel,,0,2,0,2,2,0,2,0,0,0,0,2
+Rede Globo,Rede Globo,,0,2,0,2,2,0,2,0,0,0,0,0
+Lisbon,Lisbon,,0,2,0,2,2,0,2,0,0,0,0,3
+"São Luís, Maranhão","São Luís, Maranhão",,0,2,0,2,2,0,2,0,0,0,0,3
+Metalúrgica Gerdau,Metalúrgica Gerdau,,0,2,0,2,2,0,2,0,0,0,0,4
+Cvc Brasil,Cvc Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+American Samoa,American Samoa,,0,2,0,2,2,0,2,0,0,0,0,0
+Lima,Lima,,0,2,0,2,2,0,2,0,0,0,0,0
+San Fernando Valley,San Fernando Valley,,0,2,0,2,2,0,2,0,0,0,0,2
+Capital City,Capital City,,0,2,0,2,2,0,2,0,0,0,0,0
+South Island,South Island,,0,2,0,2,2,0,2,0,0,0,0,0
+Brazilian Portuguese,Brazilian Portuguese,,0,2,0,2,2,0,2,0,0,0,0,0
+Federated States Of Micronesia,Federated States Of Micronesia,,0,2,0,2,2,0,2,0,0,0,0,0
+Amethyst,Amethyst,,0,2,0,2,2,0,2,0,0,0,0,0
+Weg Industries,Weg Industries,,0,2,0,2,2,0,2,0,0,0,0,4
+League Of Nations,League Of Nations,,0,2,0,2,2,0,2,0,0,0,0,0
+Hunsrückisch Dialect,Hunsrückisch Dialect,,0,2,0,2,2,0,2,0,0,0,0,0
+Cocoa Bean,Cocoa Bean,,0,2,0,2,2,0,2,0,0,0,0,0
+Net Income,Net Income,,0,2,0,2,2,0,2,0,0,0,0,4
+Equatorial Energia,Equatorial Energia,,0,2,0,2,2,0,2,0,0,0,0,4
+Autódromo José Carlos Pace,Autódromo José Carlos Pace,,0,2,0,2,2,0,2,0,0,0,0,3
+Serra Do Mar,Serra Do Mar,,0,2,0,2,2,0,2,0,0,0,0,3
+French Guiana,French Guiana,,0,2,0,2,2,0,2,0,0,0,0,0
+Africa,Africa,,0,2,0,2,2,0,2,0,0,0,0,0
+Italian Brazilian,Italian Brazilian,,0,2,0,2,2,0,2,0,0,0,0,3
+Operation Car Wash,Operation Car Wash,,0,2,0,2,2,0,2,0,0,0,0,0
+Alaska,Alaska,,0,2,0,2,2,0,2,0,0,0,0,0
+Topaz,Topaz,,0,2,0,2,2,0,2,0,0,0,0,0
+1950 Fifa World Cup,1950 Fifa World Cup,,0,2,0,2,2,0,2,0,0,0,0,3
+Gothic Revival Architecture,Gothic Revival Architecture,,0,2,0,2,2,0,2,0,0,0,0,0
+Marfrig,Marfrig,,0,2,0,2,2,0,2,0,0,0,0,4
+Cinema Novo,Cinema Novo,,0,2,0,2,2,0,2,0,0,0,0,0
+Niue,Niue,,0,2,0,2,2,0,2,0,0,0,0,0
+Language,Language,,0,2,0,2,2,0,2,0,0,0,0,0
+Redetv!,Redetv!,,0,2,0,2,2,0,2,0,0,0,0,3
+Sendas (Supermarket),Sendas (Supermarket),,0,2,0,2,2,0,2,0,0,0,0,4
+Titãs,Titãs,,0,2,0,2,2,0,2,0,0,0,0,0
+São Paulo/Guarulhos International Airport,São Paulo/Guarulhos International Airport,,0,2,0,2,2,0,2,0,0,0,0,3
+Chief Business Officer,Chief Business Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+State-Owned Enterprise,State-Owned Enterprise,,0,2,0,2,2,0,2,0,0,0,0,1
+Port,Port,,0,2,0,2,2,0,2,0,0,0,0,2
+Vale (Company),Vale (Company),,0,2,0,2,2,0,2,0,0,0,0,4
+Bauxite,Bauxite,,0,2,0,2,2,0,2,0,0,0,0,0
+Cosan,Cosan,,0,2,0,2,2,0,2,0,0,0,0,4
+Rita Lee,Rita Lee,,0,2,0,2,2,0,2,0,0,0,0,0
+Tropical Climate,Tropical Climate,,0,2,0,2,2,0,2,0,0,0,0,3
+Rd S.A.,Rd S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+Rodovia Presidente Dutra,Rodovia Presidente Dutra,,0,2,0,2,2,0,2,0,0,0,0,3
+Germanic Languages,Germanic Languages,,0,2,0,2,2,0,2,0,0,0,0,0
+Holy See,Holy See,,0,2,0,2,2,0,2,0,0,0,0,0
+"João Pessoa, Paraíba","João Pessoa, Paraíba",,0,2,0,2,2,0,2,0,0,0,0,3
+Zambo,Zambo,,0,2,0,2,2,0,2,0,0,0,0,0
+Rodovia Dos Bandeirantes,Rodovia Dos Bandeirantes,,0,2,0,2,2,0,2,0,0,0,0,3
+Rumo S.A.,Rumo S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+Luxembourg,Luxembourg,,0,2,0,2,2,0,2,0,0,0,0,0
+Chicago,Chicago,,0,2,0,2,2,0,2,0,0,0,0,2
+Pan-American Conference,Pan-American Conference,,0,2,0,2,2,0,2,0,0,0,0,0
+University Of São Paulo,University Of São Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Tocantins (State),Tocantins (State),,0,2,0,2,2,0,2,0,0,0,0,3
+Aquamarine (Gemstone),Aquamarine (Gemstone),,0,2,0,2,2,0,2,0,0,0,0,0
+Fundação Getúlio Vargas,Fundação Getúlio Vargas,,0,2,0,2,2,0,2,0,0,0,0,1
+Grupo Hapvida,Grupo Hapvida,,0,2,0,2,2,0,2,0,0,0,0,4
+"Vitória, Espírito Santo","Vitória, Espírito Santo",,0,2,0,2,2,0,2,0,0,0,0,3
+Utc-3,Utc-3,,0,2,0,2,2,0,2,0,0,0,0,3
+Treaty Of Tordesillas,Treaty Of Tordesillas,,0,2,0,2,2,0,2,0,0,0,0,0
+Porto Velho,Porto Velho,,0,2,0,2,2,0,2,0,0,0,0,3
+Leeward Islands,Leeward Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Malaysia,Malaysia,,0,2,0,2,2,0,2,0,0,0,0,0
+Stock Market,Stock Market,,0,2,0,2,2,0,2,0,0,0,0,1
+Aberdeen Act,Aberdeen Act,,0,2,0,2,2,0,2,0,0,0,0,0
+Boeing,Boeing,,0,2,0,2,2,0,2,0,0,0,0,0
+Tokelau,Tokelau,,0,2,0,2,2,0,2,0,0,0,0,0
+Itaúsa,Itaúsa,,0,2,0,2,2,0,2,0,0,0,0,4
+O Estado De S. Paulo,O Estado De S. Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Istanbul,Istanbul,,0,2,0,2,2,0,2,0,0,0,0,2
+Greater Mexico City,Greater Mexico City,,0,2,0,2,2,0,2,0,0,0,0,3
+Portuguese People,Portuguese People,,0,2,0,2,2,0,2,0,0,0,0,0
+Spain,Spain,,0,2,0,2,2,0,2,0,0,0,0,0
+Unlimited Company,Unlimited Company,,0,2,0,2,2,0,2,0,0,0,0,1
+Supervisory Board,Supervisory Board,,0,2,0,2,2,0,2,0,0,0,0,1
+Tarsila Do Amaral,Tarsila Do Amaral,,0,2,0,2,2,0,2,0,0,0,0,3
+Natura & Co,Natura & Co,,0,2,0,2,2,0,2,0,0,0,0,4
+Baltic Sea,Baltic Sea,,0,2,0,2,2,0,2,0,0,0,0,0
+United Kingdom Company Law,United Kingdom Company Law,,0,2,0,2,2,0,2,0,0,0,0,1
+Philippines,Philippines,,0,2,0,2,2,0,2,0,0,0,0,0
+Singapore,Singapore,,0,2,0,2,2,0,2,0,0,0,0,0
+Tourmaline,Tourmaline,,0,2,0,2,2,0,2,0,0,0,0,0
+Itaú Unibanco,Itaú Unibanco,,0,2,0,2,2,0,2,0,0,0,0,4
+Bank Of The South,Bank Of The South,,0,2,0,2,2,0,2,0,0,0,0,0
+Taesa S.A.,Taesa S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+Dom Pedro Ii,Dom Pedro Ii,,0,2,0,2,2,0,2,0,0,0,0,0
+City Of God (2002 Film),City Of God (2002 Film),,0,2,0,2,2,0,2,0,0,0,0,0
+Modernism,Modernism,,0,2,0,2,2,0,2,0,0,0,0,3
+Mixed Economy,Mixed Economy,,0,2,0,2,2,0,2,0,0,0,0,1
+Roman Catholic,Roman Catholic,,0,2,0,2,2,0,2,0,0,0,0,3
+Public Housing,Public Housing,,0,2,0,2,2,0,2,0,0,0,0,2
+Saint Vincent And The Grenadines,Saint Vincent And The Grenadines,,0,2,0,2,2,0,2,0,0,0,0,0
+Caracas,Caracas,,0,2,0,2,2,0,2,0,0,0,0,0
+Hydroelectricity,Hydroelectricity,,0,2,0,2,2,0,2,0,0,0,0,0
+Yiddish,Yiddish,,0,2,0,2,2,0,2,0,0,0,0,0
+Esperanto,Esperanto,,0,2,0,2,2,0,2,0,0,0,0,0
+Lei Áurea,Lei Áurea,,0,2,0,2,2,0,2,0,0,0,0,0
+Contract,Contract,,0,2,0,2,2,0,2,0,0,0,0,1
+Instituto De Resseguros Do Brasil,Instituto De Resseguros Do Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+Vanuatu,Vanuatu,,0,2,0,2,2,0,2,0,0,0,0,0
+Theatro Municipal (São Paulo),Theatro Municipal (São Paulo),,0,2,0,2,2,0,2,0,0,0,0,3
+"Santos, São Paulo","Santos, São Paulo",,0,2,0,2,2,0,2,0,0,0,0,3
+Massarosa,Massarosa,,0,2,0,2,2,0,2,0,0,0,0,0
+Cali,Cali,,0,2,0,2,2,0,2,0,0,0,0,0
+Banco Inter,Banco Inter,,0,2,0,2,2,0,2,0,0,0,0,4
+Indigenous Languages Of The Americas,Indigenous Languages Of The Americas,,0,2,0,2,2,0,2,0,0,0,0,0
+Caribbean Community,Caribbean Community,,0,2,0,2,2,0,2,0,0,0,0,0
+Cuba,Cuba,,0,2,0,2,2,0,2,0,0,0,0,3
+Maranhão,Maranhão,,0,2,0,2,2,0,2,0,0,0,0,3
+"Southern Region, Brazil","Southern Region, Brazil",,0,2,0,2,2,0,2,0,0,0,0,3
+Energisa,Energisa,,0,2,0,2,2,0,2,0,0,0,0,4
+Parnaíba,Parnaíba,,0,2,0,2,2,0,2,0,0,0,0,0
+Telefônica Brasil,Telefônica Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+Btg Pactual,Btg Pactual,,0,2,0,2,2,0,2,0,0,0,0,4
+Waterways,Waterways,,0,2,0,2,2,0,2,0,0,0,0,0
+The Guardian,The Guardian,,0,2,0,2,2,0,2,0,0,0,0,3
+Good Neighbor Policy,Good Neighbor Policy,,0,2,0,2,2,0,2,0,0,0,0,0
+Oclc (Identifier),Oclc (Identifier),,0,2,0,2,2,0,2,0,0,0,0,0
+Guatemala,Guatemala,,0,2,0,2,2,0,2,0,0,0,0,0
+Food Industry,Food Industry,,0,2,0,2,2,0,2,0,0,0,0,0
+Realism (Arts),Realism (Arts),,0,2,0,2,2,0,2,0,0,0,0,0
+European Union,European Union,,0,2,0,2,2,0,2,0,0,0,0,0
+Modern Art Week,Modern Art Week,,0,2,0,2,2,0,2,0,0,0,0,3
+Socialism,Socialism,,0,2,0,2,2,0,2,0,0,0,0,1
+Sistema Brasileiro De Televisão,Sistema Brasileiro De Televisão,,0,2,0,2,2,0,2,0,0,0,0,3
+Christian Labour Party,Christian Labour Party,,0,2,0,2,2,0,2,0,0,0,0,1
+Rede Bandeirantes,Rede Bandeirantes,,0,2,0,2,2,0,2,0,0,0,0,3
+Japanese Language,Japanese Language,,0,2,0,2,2,0,2,0,0,0,0,0
+Opec,Opec,,0,2,0,2,2,0,2,0,0,0,0,0
+Windward Islands,Windward Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Japanese Brazilian,Japanese Brazilian,,0,2,0,2,2,0,2,0,0,0,0,0
+Manuscript,Manuscript,,0,2,0,2,2,0,2,0,0,0,0,0
+Usiminas,Usiminas,,0,2,0,2,2,0,2,0,0,0,0,4
+Germany,Germany,,0,2,0,2,2,0,2,0,0,0,0,1
+Css (Band),Css (Band),,0,2,0,2,2,0,2,0,0,0,0,0
+Jhsf Participações,Jhsf Participações,,0,2,0,2,2,0,2,0,0,0,0,4
+Dependent Territory,Dependent Territory,,0,2,0,2,2,0,2,0,0,0,0,0
+Concentration Of Media Ownership,Concentration Of Media Ownership,,0,2,0,2,2,0,2,0,0,0,0,1
+Solar Irradiance,Solar Irradiance,,0,2,0,2,2,0,2,0,0,0,0,0
+Pedro Álvares Cabral,Pedro Álvares Cabral,,0,2,0,2,2,0,2,0,0,0,0,0
+Melon,Melon,,0,2,0,2,2,0,2,0,0,0,0,3
+Jbs S.A.,Jbs S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+Greater São Paulo,Greater São Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Telephone Numbering Plan,Telephone Numbering Plan,,0,2,0,2,2,0,2,0,0,0,0,3
+Gerdau,Gerdau,,0,2,0,2,2,0,2,0,0,0,0,4
+Solomon Islands,Solomon Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Independence,Independence,,0,2,0,2,2,0,2,0,0,0,0,3
+"Social Democratic Party (Brazil, 2011)","Social Democratic Party (Brazil, 2011)",,0,2,0,2,2,0,2,0,0,0,0,3
+La Paz,La Paz,,0,2,0,2,2,0,2,0,0,0,0,0
+Maize,Maize,,0,2,0,2,2,0,2,0,0,0,0,3
+Sugar,Sugar,,0,2,0,2,2,0,2,0,0,0,0,0
+Marshall Islands,Marshall Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Biomass,Biomass,,0,2,0,2,2,0,2,0,0,0,0,0
+Itaipu Dam,Itaipu Dam,,0,2,0,2,2,0,2,0,0,0,0,0
+Belém,Belém,,0,2,0,2,2,0,2,0,0,0,0,3
+Romanticism,Romanticism,,0,2,0,2,2,0,2,0,0,0,0,0
+Midwestern United States,Midwestern United States,,0,2,0,2,2,0,2,0,0,0,0,0
+Qualicorp,Qualicorp,,0,2,0,2,2,0,2,0,0,0,0,4
+Brazilian Declaration Of Independence,Brazilian Declaration Of Independence,,0,2,0,2,2,0,2,0,0,0,0,3
+Footwear Industry,Footwear Industry,,0,2,0,2,2,0,2,0,0,0,0,0
+Guarulhos,Guarulhos,,0,2,121,123,2,121,123,3,0.493516,0.55796,0.000076,3
+Isni (Identifier),Isni (Identifier),,0,2,0,2,2,0,2,0,0,0,0,3
+Hypermarket,Hypermarket,,0,2,0,2,2,0,2,0,0,0,0,2
+Portuguese Brazilian,Portuguese Brazilian,,0,2,0,2,2,0,2,0,0,0,0,3
+Panama,Panama,,0,2,0,2,2,0,2,0,0,0,0,0
+Michel Temer,Michel Temer,,0,2,0,2,2,0,2,0,0,0,0,0
+Tupi People,Tupi People,,0,2,0,2,2,0,2,0,0,0,0,3
+Academy Award For Best Director,Academy Award For Best Director,,0,2,0,2,2,0,2,0,0,0,0,0
+Public Health,Public Health,,0,2,0,2,2,0,2,0,0,0,0,0
+Residential Area,Residential Area,,0,2,0,2,2,0,2,0,0,0,0,2
+Utc−03:00,Utc−03:00,,0,2,0,2,2,0,2,0,0,0,0,0
+Brmalls,Brmalls,,0,2,0,2,2,0,2,0,0,0,0,4
+Ecorodovias,Ecorodovias,,0,2,0,2,2,0,2,0,0,0,0,4
+Fauna,Fauna,,0,2,0,2,2,0,2,0,0,0,0,3
+Los Angeles,Los Angeles,,0,2,0,2,2,0,2,0,0,0,0,2
+State Of Palestine,State Of Palestine,,0,2,0,2,2,0,2,0,0,0,0,3
+Chief Brand Officer,Chief Brand Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Banco Bradesco,Banco Bradesco,,0,2,0,2,2,0,2,0,0,0,0,4
+Corporate Title,Corporate Title,,0,2,0,2,2,0,2,0,0,0,0,1
+Cerrado,Cerrado,,0,2,0,2,2,0,2,0,0,0,0,0
+Irreligion,Irreligion,,0,2,0,2,2,0,2,0,0,0,0,0
+Spiritism,Spiritism,,0,2,0,2,2,0,2,0,0,0,0,3
+Discount Store,Discount Store,,0,2,0,2,2,0,2,0,0,0,0,2
+British Isles,British Isles,,0,2,0,2,2,0,2,0,0,0,0,0
+Nation State,Nation State,,0,2,0,2,2,0,2,0,0,0,0,0
+Chief Product Officer,Chief Product Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Nicaragua,Nicaragua,,0,2,0,2,2,0,2,0,0,0,0,0
+Ethnic Groups Of Africa,Ethnic Groups Of Africa,,0,2,0,2,2,0,2,0,0,0,0,3
+Guam,Guam,,0,2,0,2,2,0,2,0,0,0,0,0
+Seven Years' War,Seven Years' War,,0,2,0,2,2,0,2,0,0,0,0,0
+Beef,Beef,,0,2,0,2,2,0,2,0,0,0,0,0
+Sudan,Sudan,,0,2,0,2,2,0,2,0,0,0,0,0
+Folha De S.Paulo,Folha De S.Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+South American Parliament,South American Parliament,,0,2,0,2,2,0,2,0,0,0,0,0
+São Paulo Fashion Week,São Paulo Fashion Week,,0,2,0,2,2,0,2,0,0,0,0,4
+Mooca (District Of São Paulo),Mooca (District Of São Paulo),,0,2,0,2,2,0,2,0,0,0,0,0
+Library Of Congress,Library Of Congress,,0,2,0,2,2,0,2,0,0,0,0,1
+Manganese,Manganese,,0,2,0,2,2,0,2,0,0,0,0,0
+Grupo Fleury,Grupo Fleury,,0,2,0,2,2,0,2,0,0,0,0,4
+Hospital Das Clínicas Da Universidade De São Paulo,Hospital Das Clínicas Da Universidade De São Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Bb Seguridade,Bb Seguridade,,0,2,0,2,2,0,2,0,0,0,0,4
+Modern English,Modern English,,0,2,0,2,2,0,2,0,0,0,0,0
+Haiti,Haiti,,0,2,0,2,2,0,2,0,0,0,0,0
+Jutland,Jutland,,0,2,0,2,2,0,2,0,0,0,0,0
+Washington Luís,Washington Luís,,0,2,0,2,2,0,2,0,0,0,0,3
+Chinese Brazilian,Chinese Brazilian,,0,2,0,2,2,0,2,0,0,0,0,0
+Crustacean,Crustacean,,0,2,0,2,2,0,2,0,0,0,0,3
+Milan,Milan,,0,2,0,2,2,0,2,0,0,0,0,2
+Romania,Romania,,0,2,0,2,2,0,2,0,0,0,0,3
+Sudoc (Identifier),Sudoc (Identifier),,0,2,0,2,2,0,2,0,0,0,0,0
+Cpfl Energia,Cpfl Energia,,0,2,0,2,2,0,2,0,0,0,0,4
+Gpa (Company),Gpa (Company),,0,2,0,2,2,0,2,0,0,0,0,4
+Eztec,Eztec,,0,2,0,2,2,0,2,0,0,0,0,4
+Acronym,Acronym,,0,2,0,2,2,0,2,0,0,0,0,0
+Anita Malfatti,Anita Malfatti,,0,2,0,2,2,0,2,0,0,0,0,0
+Maceió,Maceió,,0,2,0,2,2,0,2,0,0,0,0,3
+Turkey,Turkey,,0,2,0,2,2,0,2,0,0,0,0,3
+Impeachment Of Dilma Rousseff,Impeachment Of Dilma Rousseff,,0,2,0,2,2,0,2,0,0,0,0,1
+Stuart B. Schwartz,Stuart B. Schwartz,,0,2,0,2,2,0,2,0,0,0,0,0
+Companhia Paulista De Trens Metropolitanos,Companhia Paulista De Trens Metropolitanos,,0,2,0,2,2,0,2,0,0,0,0,3
+University Of North Carolina,University Of North Carolina,,0,2,0,2,2,0,2,0,0,0,0,0
+Manchester,Manchester,,0,2,0,2,2,0,2,0,0,0,0,2
+Sub-Saharan Africa,Sub-Saharan Africa,,0,2,0,2,2,0,2,0,0,0,0,0
+Gol Linhas Aéreas Inteligentes,Gol Linhas Aéreas Inteligentes,,0,2,0,2,2,0,2,0,0,0,0,4
+Via (Retailer),Via (Retailer),,0,2,0,2,2,0,2,0,0,0,0,4
+Niobium,Niobium,,0,2,0,2,2,0,2,0,0,0,0,0
+Honduras,Honduras,,0,2,0,2,2,0,2,0,0,0,0,0
+"Appleton, Wisconsin","Appleton, Wisconsin",,0,2,0,2,2,0,2,0,0,0,0,2
+Balaiada,Balaiada,,0,2,0,2,2,0,2,0,0,0,0,0
+West Coast Of The United States,West Coast Of The United States,,0,2,0,2,2,0,2,0,0,0,0,2
+Barbados,Barbados,,0,2,0,2,2,0,2,0,0,0,0,0
+German Language,German Language,,0,2,0,2,2,0,2,0,0,0,0,0
+Museum Of The Portuguese Language,Museum Of The Portuguese Language,,0,2,0,2,2,0,2,0,0,0,0,3
+Catholic Church,Catholic Church,,0,2,0,2,2,0,2,0,0,0,0,0
+Line 13 (Cptm),Line 13 (Cptm),,0,2,0,2,2,0,2,0,0,0,0,3
+Costa Rica,Costa Rica,,0,2,0,2,2,0,2,0,0,0,0,0
+Shanghai,Shanghai,,0,2,0,2,2,0,2,0,0,0,0,2
+Instituto Butantan,Instituto Butantan,,0,2,0,2,2,0,2,0,0,0,0,3
+Magazine Luiza,Magazine Luiza,,0,2,0,2,2,0,2,0,0,0,0,4
+Fernando De Noronha,Fernando De Noronha,,0,2,0,2,2,0,2,0,0,0,0,0
+Kiribati,Kiribati,,0,2,0,2,2,0,2,0,0,0,0,0
+Black Brazilian,Black Brazilian,,0,2,0,2,2,0,2,0,0,0,0,3
+Tertiary Sector Of The Economy,Tertiary Sector Of The Economy,,0,2,0,2,2,0,2,0,0,0,0,0
+Unidas,Unidas,,0,2,0,2,2,0,2,0,0,0,0,4
+Fortaleza,Fortaleza,,0,2,0,2,2,0,2,0,0,0,0,3
+Cabanagem,Cabanagem,,0,2,0,2,2,0,2,0,0,0,0,0
+Conglomerate (Company),Conglomerate (Company),,0,2,0,2,2,0,2,0,0,0,0,1
+Corporations Act 2001,Corporations Act 2001,,0,2,0,2,2,0,2,0,0,0,0,1
+Openstreetmap,Openstreetmap,,0,2,0,2,2,0,2,0,0,0,0,3
+Limited Liability Company,Limited Liability Company,,0,2,0,2,2,0,2,0,0,0,0,1
+Fiji,Fiji,,0,2,0,2,2,0,2,0,0,0,0,0
+Ceará,Ceará,,0,2,0,2,2,0,2,0,0,0,0,3
+Punta Del Este,Punta Del Este,,0,2,0,2,2,0,2,0,0,0,0,3
+Anglo-America,Anglo-America,,0,2,0,2,2,0,2,0,0,0,0,0
+Subsidiary,Subsidiary,,0,2,0,2,2,0,2,0,0,0,0,1
+Seventh-Day Adventist Church,Seventh-Day Adventist Church,,0,2,0,2,2,0,2,0,0,0,0,0
+Republic Of Ireland,Republic Of Ireland,,0,2,0,2,2,0,2,0,0,0,0,0
+Chief Financial Officer,Chief Financial Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+El Salvador,El Salvador,,0,2,0,2,2,0,2,0,0,0,0,0
+Goldman Sachs,Goldman Sachs,,0,2,0,2,2,0,2,0,0,0,0,1
+Flora,Flora,,0,2,0,2,2,0,2,0,0,0,0,3
+Bahia,Bahia,,0,2,0,2,2,0,2,0,0,0,0,3
+North Sea,North Sea,,0,2,0,2,2,0,2,0,0,0,0,0
+Zambia,Zambia,,0,2,0,2,2,0,2,0,0,0,0,2
+Clothing,Clothing,,0,2,0,2,2,0,2,0,0,0,0,4
+Leslie Bethell,Leslie Bethell,,0,2,0,2,2,0,2,0,0,0,0,0
+São Paulo Air Force Base,São Paulo Air Force Base,,0,2,0,2,2,0,2,0,0,0,0,3
+Rondônia,Rondônia,,0,2,0,2,2,0,2,0,0,0,0,3
+Dominica,Dominica,,0,2,0,2,2,0,2,0,0,0,0,0
+Companhia Siderúrgica Nacional,Companhia Siderúrgica Nacional,,0,2,0,2,2,0,2,0,0,0,0,4
+Zimbabwe,Zimbabwe,,0,2,0,2,2,0,2,0,0,0,0,0
+Santo Domingo,Santo Domingo,,0,2,0,2,2,0,2,0,0,0,0,0
+Photovoltaic Solar,Photovoltaic Solar,,0,2,0,2,2,0,2,0,0,0,0,0
+Azul Airlines,Azul Airlines,,0,2,0,2,2,0,2,0,0,0,0,4
+Petrorio,Petrorio,,0,2,0,2,2,0,2,0,0,0,0,4
+Metropolitan Area Of Bogotá,Metropolitan Area Of Bogotá,,0,2,0,2,2,0,2,0,0,0,0,3
+United Kingdom Of Great Britain And Ireland,United Kingdom Of Great Britain And Ireland,,0,2,0,2,2,0,2,0,0,0,0,0
+Localiza,Localiza,,0,2,0,2,2,0,2,0,0,0,0,4
+Mauritius,Mauritius,,0,2,0,2,2,0,2,0,0,0,0,0
+Ccr S.A.,Ccr S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+Anchor Store,Anchor Store,,0,2,0,2,2,0,2,0,0,0,0,3
+Pardo,Pardo,,0,2,0,2,2,0,2,0,0,0,0,3
+Ecuador,Ecuador,,0,2,0,2,2,0,2,0,0,0,0,0
+Mercosur Parliament,Mercosur Parliament,,0,2,0,2,2,0,2,0,0,0,0,0
+Sole Proprietorship,Sole Proprietorship,,0,2,0,2,2,0,2,0,0,0,0,1
+Assis Chateaubriand,Assis Chateaubriand,,0,2,0,2,2,0,2,0,0,0,0,3
+Sergipe,Sergipe,,0,2,0,2,2,0,2,0,0,0,0,3
+Chief Technology Officer,Chief Technology Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Amazon Rainforest,Amazon Rainforest,,0,2,0,2,2,0,2,0,0,0,0,0
+Slavery In Brazil,Slavery In Brazil,,0,2,0,2,2,0,2,0,0,0,0,0
+Northern Mariana Islands,Northern Mariana Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Skyscraper,Skyscraper,,0,2,0,2,2,0,2,0,0,0,0,2
+Academy Awards,Academy Awards,,0,2,0,2,2,0,2,0,0,0,0,0
+Guarani Language,Guarani Language,,0,2,0,2,2,0,2,0,0,0,0,0
+Saint Lucia,Saint Lucia,,0,2,0,2,2,0,2,0,0,0,0,0
+Coffee Production In Brazil,Coffee Production In Brazil,,0,2,0,2,2,0,2,0,0,0,0,3
+Chief Operating Officer,Chief Operating Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Bossa Nova,Bossa Nova,,0,2,0,2,2,0,2,0,0,0,0,0
+Lojas Riachuelo,Lojas Riachuelo,,0,2,19,21,2,19,21,2,0.506133,0.512117,0.000502,1
+Zoning,Zoning,,0,2,0,2,2,0,2,0,0,0,0,2
+Peninsular War,Peninsular War,,0,2,0,2,2,0,2,0,0,0,0,0
+Wind Power,Wind Power,,0,2,0,2,2,0,2,0,0,0,0,0
+Mercosur,Mercosur,,0,2,0,2,2,0,2,0,0,0,0,0
+Ambev,Ambev,,0,2,0,2,2,0,2,0,0,0,0,4
+German Brazilian,German Brazilian,,0,2,0,2,2,0,2,0,0,0,0,3
+Multiculturalism,Multiculturalism,,0,2,0,2,2,0,2,0,0,0,0,3
+Partnership,Partnership,,0,2,0,2,2,0,2,0,0,0,0,1
+Mato Grosso Do Sul,Mato Grosso Do Sul,,0,2,0,2,2,0,2,0,0,0,0,3
+Academy Award For Best Foreign Language Film,Academy Award For Best Foreign Language Film,,0,2,0,2,2,0,2,0,0,0,0,0
+Lima Metropolitan Area,Lima Metropolitan Area,,0,2,0,2,2,0,2,0,0,0,0,3
+Futsal,Futsal,,0,2,0,2,2,0,2,0,0,0,0,3
+Confederation Of The Equator,Confederation Of The Equator,,0,2,0,2,2,0,2,0,0,0,0,0
+Tuvalu,Tuvalu,,0,2,0,2,2,0,2,0,0,0,0,0
+Paris,Paris,,0,2,0,2,2,0,2,0,0,0,0,2
+Tim Brasil,Tim Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+Petroleum,Petroleum,,0,2,0,2,2,0,2,0,0,0,0,0
+Mrv Engenharia,Mrv Engenharia,,0,2,0,2,2,0,2,0,0,0,0,4
+Bric,Bric,,0,2,0,2,2,0,2,0,0,0,0,0
+Minerva Foods,Minerva Foods,,0,2,0,2,2,0,2,0,0,0,0,4
+Asunción,Asunción,,0,2,0,2,2,0,2,0,0,0,0,3
+Pará,Pará,,0,2,0,2,2,0,2,0,0,0,0,3
+Surinamese Dutch,Surinamese Dutch,,0,2,0,2,2,0,2,0,0,0,0,0
+State Of São Paulo,State Of São Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Association Football,Association Football,,0,2,0,2,2,0,2,0,0,0,0,3
+Syria,Syria,,0,2,0,2,2,0,2,0,0,0,0,2
+Lasar Segall,Lasar Segall,,0,2,0,2,2,0,2,0,0,0,0,0
+Pmc (Identifier),Pmc (Identifier),,0,2,0,2,2,0,2,0,0,0,0,0
+Pakistan,Pakistan,,0,2,0,2,2,0,2,0,0,0,0,0
+Constitutionalist Revolution,Constitutionalist Revolution,,0,2,0,2,2,0,2,0,0,0,0,3
+Institute Of Cancer Of São Paulo,Institute Of Cancer Of São Paulo,,0,2,0,2,2,0,2,0,0,0,0,0
+Caribbean,Caribbean,,0,2,0,2,2,0,2,0,0,0,0,0
+World War I,World War I,,0,2,0,2,2,0,2,0,0,0,0,0
+Multiplan S.A.,Multiplan S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+Hypera Pharma,Hypera Pharma,,0,2,0,2,2,0,2,0,0,0,0,4
+Eneva,Eneva,,0,2,0,2,2,0,2,0,0,0,0,4
+Thomas Skidmore,Thomas Skidmore,,0,2,0,2,2,0,2,0,0,0,0,0
+Cielo S.A.,Cielo S.A.,,0,2,0,2,2,0,2,0,0,0,0,4
+South Korea,South Korea,,0,2,0,2,2,0,2,0,0,0,0,3
+Tucuruí Dam,Tucuruí Dam,,0,2,0,2,2,0,2,0,0,0,0,0
+Nigeria,Nigeria,,0,2,0,2,2,0,2,0,0,0,0,0
+United States Dollar,United States Dollar,,0,2,0,2,2,0,2,0,0,0,0,1
+Brazilians Of Spanish Descent,Brazilians Of Spanish Descent,,0,2,0,2,2,0,2,0,0,0,0,3
+Southern Cone,Southern Cone,,0,2,0,2,2,0,2,0,0,0,0,0
+"South Region, Brazil","South Region, Brazil",,0,2,0,2,2,0,2,0,0,0,0,0
+Cogna Educação,Cogna Educação,,0,2,0,2,2,0,2,0,0,0,0,4
+Languages Of Europe,Languages Of Europe,,0,2,0,2,2,0,2,0,0,0,0,0
+Seymour Drescher,Seymour Drescher,,0,2,0,2,2,0,2,0,0,0,0,0
+Piauí,Piauí,,0,2,0,2,2,0,2,0,0,0,0,3
+Democrats (Brazil),Democrats (Brazil),,0,2,0,2,2,0,2,0,0,0,0,1
+Saint Kitts And Nevis,Saint Kitts And Nevis,,0,2,0,2,2,0,2,0,0,0,0,0
+Organization Of Ibero-American States,Organization Of Ibero-American States,,0,2,0,2,2,0,2,0,0,0,0,0
+Yduqs,Yduqs,,0,2,0,2,2,0,2,0,0,0,0,4
+South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Fernando Henrique Cardoso,Fernando Henrique Cardoso,,0,2,0,2,2,0,2,0,0,0,0,1
+Goiás,Goiás,,0,2,0,2,2,0,2,0,0,0,0,3
+Southeast Asia,Southeast Asia,,0,2,0,2,2,0,2,0,0,0,0,0
+Joint-Stock Company,Joint-Stock Company,,0,2,0,2,2,0,2,0,0,0,0,1
+Annual General Meeting,Annual General Meeting,,0,2,0,2,2,0,2,0,0,0,0,1
+Bradespar,Bradespar,,0,2,0,2,2,0,2,0,0,0,0,4
+Engie Brasil,Engie Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+Oxford,Oxford,,0,2,0,2,2,0,2,0,0,0,0,2
+Agate,Agate,,0,2,0,2,2,0,2,0,0,0,0,0
+Treaty Of Versailles,Treaty Of Versailles,,0,2,0,2,2,0,2,0,0,0,0,0
+Christian,Christian,,0,2,0,2,2,0,2,0,0,0,0,0
+Inter-American Commission Of Women,Inter-American Commission Of Women,,0,2,0,2,2,0,2,0,0,0,0,0
+Federal District (Brazil),Federal District (Brazil),,0,2,0,2,2,0,2,0,0,0,0,3
+Garnet,Garnet,,0,2,0,2,2,0,2,0,0,0,0,0
+Cyrela Brazil Realty,Cyrela Brazil Realty,,0,2,0,2,2,0,2,0,0,0,0,4
+Santander Brasil,Santander Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+Nauru,Nauru,,0,2,0,2,2,0,2,0,0,0,0,0
+Moscow,Moscow,,0,2,0,2,2,0,2,0,0,0,0,2
+Andean Community Of Nations,Andean Community Of Nations,,0,2,0,2,2,0,2,0,0,0,0,0
+Liberal Wars,Liberal Wars,,0,2,0,2,2,0,2,0,0,0,0,0
+Christianity,Christianity,,0,2,0,2,2,0,2,0,0,0,0,0
+1963 Pan American Games,1963 Pan American Games,,0,2,0,2,2,0,2,0,0,0,0,3
+"North Region, Brazil","North Region, Brazil",,0,2,0,2,2,0,2,0,0,0,0,0
+Greater Buenos Aires,Greater Buenos Aires,,0,2,0,2,2,0,2,0,0,0,0,3
+Port Of Santos,Port Of Santos,,0,2,0,2,2,0,2,0,0,0,0,3
+Chemical Industry,Chemical Industry,,0,2,0,2,2,0,2,0,0,0,0,0
+Klabin,Klabin,,0,2,0,2,2,0,2,0,0,0,0,4
+Immigration Museum Of The State Of São Paulo,Immigration Museum Of The State Of São Paulo,,0,2,0,2,2,0,2,0,0,0,0,3
+Germans,Germans,,0,2,0,2,2,0,2,0,0,0,0,4
+2007 Pan American Games,2007 Pan American Games,,0,2,0,2,2,0,2,0,0,0,0,3
+English In The Commonwealth Of Nations,English In The Commonwealth Of Nations,,0,2,0,2,2,0,2,0,0,0,0,2
+Manaus,Manaus,,0,2,0,2,2,0,2,0,0,0,0,3
+Tropic Of Capricorn,Tropic Of Capricorn,,0,2,0,2,2,0,2,0,0,0,0,3
+Relative Humidity,Relative Humidity,,0,2,0,2,2,0,2,0,0,0,0,3
+Capacity Factor,Capacity Factor,,0,2,0,2,2,0,2,0,0,0,0,0
+"Central-West Region, Brazil","Central-West Region, Brazil",,0,2,0,2,2,0,2,0,0,0,0,3
+Talent Management,Talent Management,,0,2,0,2,2,0,2,0,0,0,0,1
+Rio–São Paulo High-Speed Rail,Rio–São Paulo High-Speed Rail,,0,2,0,2,2,0,2,0,0,0,0,3
+Falkland Islands,Falkland Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+South Asia,South Asia,,0,2,0,2,2,0,2,0,0,0,0,0
+Hong Kong,Hong Kong,,0,2,0,2,2,0,2,0,0,0,0,0
+Machado De Assis,Machado De Assis,,0,2,0,2,2,0,2,0,0,0,0,0
+Quebec,Quebec,,0,2,0,2,2,0,2,0,0,0,0,0
+Liberal Revolution Of 1820,Liberal Revolution Of 1820,,0,2,0,2,2,0,2,0,0,0,0,0
+Brazilian Democratic Movement,Brazilian Democratic Movement,,0,2,0,2,2,0,2,0,0,0,0,3
+Soybean,Soybean,,0,2,0,2,2,0,2,0,0,0,0,0
+Surrealism,Surrealism,,0,2,0,2,2,0,2,0,0,0,0,0
+Kenya,Kenya,,0,2,0,2,2,0,2,0,0,0,0,0
+Cemig,Cemig,,0,2,0,2,2,0,2,0,0,0,0,4
+Sunshine Duration,Sunshine Duration,,0,2,0,2,2,0,2,0,0,0,0,3
+South America,South America,,0,2,0,2,2,0,2,0,0,0,0,0
+Roraima,Roraima,,0,2,0,2,2,0,2,0,0,0,0,3
+Unesco,Unesco,,0,2,0,2,2,0,2,0,0,0,0,0
+Eletrobras,Eletrobras,,0,2,0,2,2,0,2,0,0,0,0,4
+Suzano Papel E Celulose,Suzano Papel E Celulose,,0,2,0,2,2,0,2,0,0,0,0,4
+Cisplatine War,Cisplatine War,,0,2,0,2,2,0,2,0,0,0,0,0
+Açaí,Açaí,,0,2,0,2,2,0,2,0,0,0,0,0
+Chamber Of Deputies (Brazil),Chamber Of Deputies (Brazil),,0,2,0,2,2,0,2,0,0,0,0,1
+Sabesp,Sabesp,,0,2,0,2,2,0,2,0,0,0,0,4
+Pitcairn Islands,Pitcairn Islands,,0,2,0,2,2,0,2,0,0,0,0,0
+Inter-American Treaty Of Reciprocal Assistance,Inter-American Treaty Of Reciprocal Assistance,,0,2,0,2,2,0,2,0,0,0,0,0
+Business Judgment Rule,Business Judgment Rule,,0,2,0,2,2,0,2,0,0,0,0,1
+Edp - Energias Do Brasil,Edp - Energias Do Brasil,,0,2,0,2,2,0,2,0,0,0,0,4
+Retail,Retail,,0,2,0,2,2,0,2,0,0,0,0,1
+Oxford University Press,Oxford University Press,,0,2,0,2,2,0,2,0,0,0,0,0
+São José Dos Campos,São José Dos Campos,,0,2,0,2,2,0,2,0,0,0,0,3
+São Paulo International Film Festival,São Paulo International Film Festival,,0,2,0,2,2,0,2,0,0,0,0,3
+Airbus,Airbus,,0,2,0,2,2,0,2,0,0,0,0,0
+Bogotá,Bogotá,,0,2,0,2,2,0,2,0,0,0,0,3
+Br-101,Br-101,,0,2,0,2,2,0,2,0,0,0,0,3
+Petrobras Distribuidora,Petrobras Distribuidora,,0,2,0,2,2,0,2,0,0,0,0,4
+Lojas Renner,Lojas Renner,,0,2,95,97,2,95,97,3,0.480687,0.526998,0.000162,4
+Brazil During World War I,Brazil During World War I,,0,2,0,2,2,0,2,0,0,0,0,0
+Initiative For The Integration Of The Regional Infrastructure Of South America,Initiative For The Integration Of The Regional Infrastructure Of South America,,0,2,0,2,2,0,2,0,0,0,0,0
+"Salvador, Bahia","Salvador, Bahia",,0,2,0,2,2,0,2,0,0,0,0,3
+Tupi Language,Tupi Language,,0,2,0,2,2,0,2,0,0,0,0,3
+Empresa De Pesquisa Energética,Empresa De Pesquisa Energética,,0,2,0,2,2,0,2,0,0,0,0,0
+Western Hemisphere,Western Hemisphere,,0,2,0,2,2,0,2,0,0,0,0,3
+Lingua Franca,Lingua Franca,,0,2,0,2,2,0,2,0,0,0,0,0
+Luiz Inácio Lula Da Silva,Luiz Inácio Lula Da Silva,,0,2,0,2,2,0,2,0,0,0,0,0
+Brazilian Grand Prix,Brazilian Grand Prix,,0,2,0,2,2,0,2,0,0,0,0,3
+Suriname,Suriname,,0,2,0,2,2,0,2,0,0,0,0,0
+Montevideo,Montevideo,,0,2,0,2,2,0,2,0,0,0,0,3
+Public Company,Public Company,,0,2,0,2,2,0,2,0,0,0,0,1
+The World Factbook,The World Factbook,,0,2,0,2,2,0,2,0,0,0,0,0
+"Palmas, Tocantins","Palmas, Tocantins",,0,2,0,2,2,0,2,0,0,0,0,3
+Malê Revolt,Malê Revolt,,0,2,0,2,2,0,2,0,0,0,0,0
+Copel,Copel,,0,2,0,2,2,0,2,0,0,0,0,4
+Cantareira State Park,Cantareira State Park,,0,2,0,2,2,0,2,0,0,0,0,3
+Praieira Revolt,Praieira Revolt,,0,2,0,2,2,0,2,0,0,0,0,0
+Cia. Hering,Cia. Hering,,0,2,97,99,2,97,99,4,0.512753,0.550064,0.000175,4
+B2W,B2W,,0,2,0,2,2,0,2,0,0,0,0,4
+Culture Of Portugal,Culture Of Portugal,,0,2,0,2,2,0,2,0,0,0,0,3
+Bantu Languages,Bantu Languages,,0,2,0,2,2,0,2,0,0,0,0,0
+Pacific Ocean,Pacific Ocean,,0,2,0,2,2,0,2,0,0,0,0,0
+Retail Apocalypse,Retail Apocalypse,,0,2,0,2,2,0,2,0,0,0,0,2
+Chief Information Officer,Chief Information Officer,,0,2,0,2,2,0,2,0,0,0,0,1
+Havana,Havana,,0,2,0,2,2,0,2,0,0,0,0,3
+English Language,English Language,,0,1,115,116,1,115,116,1,1,1,0.000141,0
+Flávio Rocha,Flávio Rocha,,0,1,15,16,1,15,16,3,0.434349,0.455995,0.000009,1
+Embraer Legacy 600,Embraer Legacy 600,,0,1,4,5,1,4,5,4,0.449376,0.464635,0.000001,1
+Midway Mall (Brazil),Midway Mall (Brazil),,0,1,9,10,1,9,10,3,0.478967,0.489985,0.000009,3
+"Natal, Brazil","Natal, Brazil",,0,1,197,198,1,197,198,3,0.559103,0.636574,0.000114,3
+Private Company,Private Company,,0,1,28,29,1,28,29,1,1,1,0.000047,1
+Shopping Center,Shopping Center,,0,1,38,39,1,38,39,2,0.851852,0.913043,0.00006,2
